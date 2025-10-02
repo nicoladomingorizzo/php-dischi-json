@@ -1,0 +1,72 @@
+[
+    {
+        "titolo": "Dark Side of the Moon",
+        "artista": "Pink Floyd",
+        "url_cover": "https://legendarycover.it/wp-content/uploads/2019/06/thedarksideofthemoon-e1559419433695.jpg?_gl=1*ri2703*_up*MQ..*_ga*MTMyMDg3NjI5NS4xNzU5Mzk5Mzcz*_ga_9KCC6X00PM*czE3NTkzOTkzNzMkbzEkZzAkdDE3NTkzOTkzNzMkajYwJGwwJGgw",
+        "anno_pubblicazione": 1973,
+        "genere": "Rock Progressivo"
+    },
+    {
+        "titolo": "Thriller",
+        "artista": "Michael Jackson",
+        "url_cover": "https://legendarycover.it/wp-content/uploads/2019/01/thriller-michael-jackson-copertina-e1548770138210.jpg?_gl=1*k3v8tr*_up*MQ..*_ga*MTQ1ODg3MjU1My4xNzU5Mzk5NDcy*_ga_9KCC6X00PM*czE3NTkzOTk0NzEkbzEkZzAkdDE3NTkzOTk0NzEkajYwJGwwJGgw",
+        "anno_pubblicazione": 1982,
+        "genere": "Pop"
+    },
+    {
+        "titolo": "Abbey Road",
+        "artista": "The Beatles",
+        "url_cover": "https://www.artovercovers.com/wp-content/uploads/2017/09/Abbey-Road-Cover1.jpeg",
+        "anno_pubblicazione": 1969,
+        "genere": "Rock"
+    },
+    {
+        "titolo": "Nevermind",
+        "artista": "Nirvana",
+        "url_cover": "https://media-assets.wired.it/photos/615f43e5f15ed5a2704b40ea/master/w_1600,c_limit/Dischi-Vinile-Nirvana-Vinile-Nirvana-Nevermind-l.jpg",
+        "anno_pubblicazione": 1991,
+        "genere": "Grunge"
+    },
+    {
+        "titolo": "Kind of Blue",
+        "artista": "Miles Davis",
+        "url_cover": "https://www.jazzit.it/wp-content/uploads/2019/08/kind-of-blue.jpg",
+        "anno_pubblicazione": 1959,
+        "genere": "Jazz"
+    },
+    {
+        "titolo": "The Miseducation of Lauryn Hill",
+        "artista": "Lauryn Hill",
+        "url_cover": "https://www.artovercovers.com/wp-content/uploads/2017/07/Lauryn-hill-the-miseducation-of-lauryn-hill.jpg",
+        "anno_pubblicazione": 1998,
+        "genere": "R&B/Soul"
+    },
+    {
+        "titolo": "A Night at the Opera",
+        "artista": "Queen",
+        "url_cover": "https://www.artovercovers.com/wp-content/uploads/2017/04/a-night-at-the-opera.png",
+        "anno_pubblicazione": 1975,
+        "genere": "Rock Classico"
+    },
+    {
+        "titolo": "Lemonade",
+        "artista": "Beyoncé",
+        "url_cover": "https://smarthomesounds.sirv.com/live-magento/catalog/product/l/e/lemonade-lp-set-beyonce-album-cover.jpg?profile=smarthome&q=80&canvas.width=944&canvas.height=944&canvas.color=ffffff&w=944&h=944",
+        "anno_pubblicazione": 2016,
+        "genere": "Pop/R&B"
+    },
+    {
+        "titolo": "Pet Sounds",
+        "artista": "The Beach Boys",
+        "url_cover": "https://assets.fontsinuse.com/use-media/8220/upto-700xauto/56701fbe/1/jpeg/R-1751993-1241032180.jpeg",
+        "anno_pubblicazione": 1966,
+        "genere": "Pop Sperimentale"
+    },
+    {
+        "titolo": "21",
+        "artista": "Adele",
+        "url_cover": "https://thesignaturelibrary.com/cdn/shop/products/ADELE-21-SIGNED_BY_ADELE_900x.jpg?v=1638397454",
+        "anno_pubblicazione": 2011,
+        "genere": "Soul Pop"
+    }
+]
