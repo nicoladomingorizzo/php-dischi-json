@@ -6,7 +6,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $json_text = file_get_contents('./cds.json');
 
     // Usiamo il json_decode per decodificare la lista presa dal file json
-    $cds = json_decode($json_text, true);
+    $cds = json_decode($json_text, true) ?? [];
 
     // Creiamo la variabile del nuovo_cd con i dati di  $_POST
     $nuovo_cd = [
@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $cds[] = $nuovo_cd;
 
         // Ricodifico il file che avevo preso dal json
-        $json_text = json_encode($cds);
+        $json_text = json_encode($cds, JSON_PRETTY_PRINT);
 
         // Sovrascrivo il file json
         file_put_contents('./cds.json', $json_text);
@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 // Leggiamo i dati esistenti per la visualizzazione su index.php
 $json_text = file_get_contents('./cds.json');
-$cds = json_decode($json_text, true);
+$cds = json_decode($json_text, true) ?? [];
 
 $title = 'PHP Dischi JSON';
 
